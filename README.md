@@ -1,7 +1,4 @@
 # Home-Credit-Default-Risk
-A comprehensive case study on machine learning that centers on developing a prediction model by utilizing Home Credit Group's dataset to detect potential loan defaulters
-*** 
-
 ## Introduction
 
 Home Credit is an international consumer finance provider which operates in 9 countries. It provides point of sales loans, cash loans and revolving loans to underserved borrowers. The term undeserved borrower here refers to those who earn regular income from their job or businesses, but have little or no credit history and find it difficult to get credits from other traditional lending organizations. They believe that the credit history should not be a barrier for a borrower to fulfill their dreams. The goal of the project is to leverage the accumulated borrower behavioral data to develop predictive models. These models will enable Home Credit to efficiently analyze the risk associated with a given client and estimate the safe credit amount to be lent, even for underserved borrowers with little or no credit history. Ultimately, the aim is to provide financial assistance to customers and fulfill their dreams while ensuring responsible lending practices.
@@ -71,3 +68,8 @@ Feature Engineering:- Navigating through extensive datasets underscored the sign
 
 Model Development and Performance Evaluation:- From implementing machine learning algorithms like LG Boost to fine-tuning parameters and evaluating performance metrics, I honed my skills in model development and assessment, enabling informed decision-making based on results interpretation.
 
+Results that help the business (home credit) requirements.
+
+**[EDA Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/EDA.ipynb)**
+
+**[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
