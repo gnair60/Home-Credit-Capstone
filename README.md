@@ -35,7 +35,8 @@ Our objective is to identify the optimal model based on Kaggle scores. We'll com
 
 ## Contributution
 
-My contributions to the project primarily focused on two key areas: data exploration and modeling the Random Forest algorithm. I conducted in-depth analysis of the datasets to uncover insights related to credit default risk, and then implemented Random Forest to build a predictive model. I fine-tuned the model parameters for optimal performance and documented my methodologies for transparency.
+My contributions to the project primarily focused on two key areas: data exploration and modeling using the Random Forest algorithm. I conducted thorough analysis of the datasets, uncovering intricate insights related to credit default risk through meticulous examination of patterns and correlations. 
+Through meticulous examination, I identified key patterns, correlations, and potential predictors that could significantly influence the predictive outcomes. Following the exploratory phase, I transitioned into the modeling realm, where I spearheaded the implementation of the Random Forest algorithm. Leveraging its ensemble learning capabilities, I constructed a predictive model tailored to discerning credit default probabilities. This involved meticulous parameterization and fine-tuning to optimize model performance, ensuring its ability to effectively capture the underlying complexities within the data.
 
 ## Business Value
 
