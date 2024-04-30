@@ -68,3 +68,8 @@ Feature Engineering:- Navigating through extensive datasets underscored the sign
 
 Model Development and Performance Evaluation:- From implementing machine learning algorithms like LG Boost to fine-tuning parameters and evaluating performance metrics, I honed my skills in model development and assessment, enabling informed decision-making based on results interpretation.
 
+Results that help the business (home credit) requirements.
+
+**[EDA Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/EDA.ipynb)**
+
+**[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
