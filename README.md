@@ -73,3 +73,5 @@ Results that help the business (home credit) requirements.
 **[EDA Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/EDA.ipynb)**
 
 **[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
+
+**[Presentation](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Capstone_Presentation.pptx)**
